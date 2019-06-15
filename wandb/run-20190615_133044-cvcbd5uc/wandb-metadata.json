@@ -1,0 +1,20 @@
+{
+    "root": "C:\\Users\\taija\\Documents\\AI course\\CNN1",
+    "startedAt": "2019-06-15T13:30:41.241725",
+    "host": "DESKTOP-E8GT0M1",
+    "username": "taija",
+    "os": "Windows-10-10.0.17134-SP0",
+    "python": "3.6.5",
+    "cpu_count": 8,
+    "program": "python",
+    "args": [
+        "run",
+        "python",
+        "keras_cnn.py"
+    ],
+    "state": "finished",
+    "heartbeatAt": "2019-06-15T13:39:39.499037",
+    "jobType": null,
+    "mode": "clirun",
+    "exitcode": 0
+}
